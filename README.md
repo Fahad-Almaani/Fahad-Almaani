@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻 Software Engineer in the Making<br>🧑🏼‍🎓 Bachelor of Software Engineering Student at the University of Technology and Applied Science (UTAS)<br>⚒️ Passionate about:<br>Web Development (Building engaging websites and platforms)<br>Mobile App Development (Creating efficient and intuitive apps using Flutter and .NET MAUI)<br>IoT Projects (Exploring hardware-software integrations like ESP32 and RGB lighting)<br>Artificial Intelligence (Building smart solutions with machine learning and interactive AI agents)
+👨‍💻 Software Engineer in the Making<br>
+🧑🏼‍🎓 Bachelor of Software Engineering Student at the University of Technology and Applied Science (UTAS)<br>
 
 
 ## 🌐 Socials:
