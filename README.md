@@ -8,3 +8,7 @@
 
 <!-- Github status -->
 [![Fahad github stats](https://github-readme-stats.vercel.app/api?username=Fahad-Almaani&show_icons=true&theme=radical)](https://github.com/Fahad-Almaani/github-readme-stats)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad-Almaani&hide_progress=true)
