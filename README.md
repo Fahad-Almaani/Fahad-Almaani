@@ -4,6 +4,7 @@
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://almaaniportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fahad-almaani-870815210/) 
 
 # 💻 Tech Stack:
