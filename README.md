@@ -34,7 +34,19 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp,dart&perline=10" alt="Languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=django,react,dotnet,firebase,mysql,git,azure,docker&perline=10" alt="Frameworks and Tools" />
+  <img src="https://skillicons.dev/icons?i=django,react,dotnet,flutter,fastapi,nodejs&perline=12" alt="Frameworks" />
+  <br/>
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,mongodb,git,azure,docker&perline=12" alt="Tools" />
+  <!-- <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Entra ID" /> -->
+</p>
+
+<!-- Currently Learning -->
+<h2 align="center">📚 Currently Learning</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring&perline=10" alt="Java, Spring Boot" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-3B82F6?style=for-the-badge&logoColor=white" alt="LangGraph" />
 </p>
 
 <!-- Stats -->
