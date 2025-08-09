@@ -5,11 +5,11 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+in+the+Making;UTAS+Bachelor+of+Software+Engineering;Full‑stack+%7C+Mobile+%7C+Cloud;Always+learning+%26+building+cool+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+soon+enough;UTAS+Bachelor+of+Software+Engineering;Full‑stack+%7C+Mobile+%7C+AI+%7C+Cloud+%7C+...You+Name+It" alt="Typing SVG" />
 </p>
 
 <!-- About Me -->
-<h2 align="center">💫 About Me</h2>
+<h2 align="center">💫 The Myth, the Merge, the Legend</h2>
 
 <p align="center">
   👨‍💻 Digital plumber, laying pipes of logic and praying they don't leak on the end-user<br/>
